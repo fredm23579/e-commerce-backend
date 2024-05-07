@@ -32,7 +32,7 @@
 
 ---
 
-## 🌟 Features
+## 🌟 Description
 
  Sure, here is a list of features for the project:<br>
 * RESTful API for managing categories, products, and tags
@@ -85,7 +85,7 @@
 
 ### Link to repository
 
--* https://github.fredm23579.github.io/e-commerce-backend
+- https://github.fredm23579.github.io/e-commerce-backend
 
 ---
 
