@@ -20,6 +20,7 @@
   - [🌟 Features](#-features)
   - [📁 Repository Structure](#-repository-structure)
   - [💻 Code Summary](#-code-summary)
+  - [ Demo Video](#demo-video)
   - [🚀 Getting Started](#-getting-started)
   
   ---
@@ -78,6 +79,13 @@
 └── server.js
 
 ```
+## Demo Video
+
+[Demo Video](https://drive.google.com/file/d/1laXdhRpmtRAp8MTfPSzD0RYjrWDszhJi/view?usp=sharing)
+
+### Link to repository
+
+-* https://github.fredm23579.github.io/e-commerce-backend
 
 ---
 
